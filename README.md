@@ -1,1 +1,66 @@
 # SVA--4-to-1-Multiplexer-SystemVerolog
+
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 4674 kB (elbread=427 elab2=4113 kernel=134 sdf=0)
+# KERNEL: ASDB file was created in location /home/runner/dataset.asdb
+# KERNEL: Info: design.sv (21):  Pass  Action a at 0
+# KERNEL: Info: design.sv (21):  Pass  Action a at 5
+# KERNEL: Info: design.sv (21):  Pass  Action a at 10
+# KERNEL: Info: design.sv (21):  Pass  Action a at 15
+# KERNEL: Info: design.sv (21):  Pass  Action a at 20
+# KERNEL: Info: design.sv (21):  Pass  Action a at 25
+# KERNEL: Info: design.sv (21):  Pass  Action a at 30
+# KERNEL: Info: design.sv (21):  Pass  Action a at 35
+# KERNEL: Info: design.sv (21):  Pass  Action a at 40
+# KERNEL: Info: design.sv (21):  Pass  Action a at 45
+# KERNEL: Info: design.sv (22):  PAss  Action b at 50
+# KERNEL: Info: design.sv (22):  PAss  Action b at 55
+# KERNEL: Info: design.sv (22):  PAss  Action b at 60
+# KERNEL: Info: design.sv (22):  PAss  Action b at 65
+# KERNEL: Info: design.sv (22):  PAss  Action b at 70
+# KERNEL: Info: design.sv (22):  PAss  Action b at 75
+# KERNEL: Info: design.sv (22):  PAss  Action b at 80
+# KERNEL: Info: design.sv (22):  PAss  Action b at 85
+# KERNEL: Info: design.sv (22):  PAss  Action b at 90
+# KERNEL: Info: design.sv (22):  PAss  Action b at 95
+# KERNEL: Info: design.sv (23):  Pass  Action c  at 100
+# KERNEL: Info: design.sv (23):  Pass  Action c  at 105
+# KERNEL: Info: design.sv (23):  Pass  Action c  at 110
+# KERNEL: Info: design.sv (23):  Pass  Action c  at 115
+# KERNEL: Info: design.sv (23):  Pass  Action c  at 120
+# KERNEL: Info: design.sv (23):  Pass  Action c  at 125
+# KERNEL: Info: design.sv (23):  Pass  Action c  at 130
+# KERNEL: Info: design.sv (23):  Pass  Action c  at 135
+# KERNEL: Info: design.sv (23):  Pass  Action c  at 140
+# KERNEL: Info: design.sv (23):  Pass  Action c  at 145
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 150
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 155
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 160
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 165
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 170
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 175
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 180
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 185
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 190
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 195
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 200
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 205
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 210
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 215
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 220
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 225
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 230
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 235
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 240
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 245
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 250
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 255
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 260
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 265
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 270
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 275
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 280
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 285
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 290
+# KERNEL: Info: design.sv (24):  Pass  Action d  at 295
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (30): $finish called.
